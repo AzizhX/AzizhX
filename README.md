@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azizah Alshammari</h1>
+<h1 align="center">Hi 👋,  I'm Azizah Alshammari</h1>
 <h3 align="center">A Computer Scientist who is passionate about learning, and creating efficient solutions. <br> Interested in all tech fields, mainly in web, app, and game development!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=azizhx&label=Profile%20views&color=0e75b6&style=flat" alt="azizhx" /> </p>
