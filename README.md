@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **azizh.shammri@gmail.com**
 
-- ⚡ Fun fact **i I love art and games :)**
+- ⚡ Fun fact: **I I love art and games :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
