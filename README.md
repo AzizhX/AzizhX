@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently working on **my personal portfolio**
 
-- 🌱 I’m currently learning **Flutter** & **Web Development**
+- 🌱 I’m currently learning **game dev with Unity** & **Web Development** & **Flutter**
 
 - 📫 How to reach me **azizh.shammri@gmail.com**
 
-- ⚡ Fun fact: **I love art and games :)**
+- ⚡ Fun fact: **I love drawing and playing video games :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
