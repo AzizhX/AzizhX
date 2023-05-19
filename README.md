@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **my personal portfolio**
 
-- 🌱 I’m currently learning **game dev with Unity** & **Web Development** & **Flutter**
+- 🌱 I’m currently learning **game dev with Unity** & **Web Development** 
 
 - 📫 How to reach me **azizh.shammri@gmail.com**
 
