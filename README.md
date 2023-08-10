@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Azizah Alshammari</h1>
-<h3 align="center">A Computer Scientist who is passionate about learning, and creating efficient solutions.<br> Interested in all tech fields, mainly in web, mobile apps, and game development.</h3>
+<h3 align="center">A Computer Science graduate who is passionate about learning, and creating efficient solutions.<br> Interested in all tech fields, mainly in web, mobile apps, and game development.</h3>
 <p align="center">
 <img width="400" src="https://64.media.tumblr.com/503307fc1bf3f184e80c217ff4ff7569/tumblr_o96nxvPnHE1tgoxx3o1_500.gif" align="center" />
 </p>
