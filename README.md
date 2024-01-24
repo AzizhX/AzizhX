@@ -4,13 +4,9 @@
 <img width="400" src="https://64.media.tumblr.com/503307fc1bf3f184e80c217ff4ff7569/tumblr_o96nxvPnHE1tgoxx3o1_500.gif" align="center" />
 </p>
 
-- 🔭 I’m currently working on **my personal portfolio**
-
-- 🌱 I’m currently learning **game dev with Godot** & **Web Development** 
-
 - 📫 How to reach me **azizh.shammri@gmail.com**
 
-- ⚡ Fun fact: **I love drawing and playing video games :)**
+- 🌱 Fun fact: **I love drawing and playing video games :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
