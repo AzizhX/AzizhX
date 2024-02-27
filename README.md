@@ -6,11 +6,8 @@
 
 - 📫 How to reach me **azizh.shammri@gmail.com**
 
-- 🌱 Fun fact: **I love drawing and playing video games :)**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/artistazizh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="artistazizh" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11207489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="11207489" height="30" width="40" /></a>
 </p>
 
